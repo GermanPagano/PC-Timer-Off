@@ -1,0 +1,17 @@
+C:\Users\German\Desktop\Apagador\bin\Debug\net6.0-windows\Apagador.exe
+C:\Users\German\Desktop\Apagador\bin\Debug\net6.0-windows\Apagador.deps.json
+C:\Users\German\Desktop\Apagador\bin\Debug\net6.0-windows\Apagador.runtimeconfig.json
+C:\Users\German\Desktop\Apagador\bin\Debug\net6.0-windows\Apagador.dll
+C:\Users\German\Desktop\Apagador\bin\Debug\net6.0-windows\Apagador.pdb
+C:\Users\German\Desktop\Apagador\obj\Debug\net6.0-windows\Apagador.csproj.AssemblyReference.cache
+C:\Users\German\Desktop\Apagador\obj\Debug\net6.0-windows\Apagador.Form1.resources
+C:\Users\German\Desktop\Apagador\obj\Debug\net6.0-windows\Apagador.csproj.GenerateResource.cache
+C:\Users\German\Desktop\Apagador\obj\Debug\net6.0-windows\Apagador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\German\Desktop\Apagador\obj\Debug\net6.0-windows\Apagador.AssemblyInfoInputs.cache
+C:\Users\German\Desktop\Apagador\obj\Debug\net6.0-windows\Apagador.AssemblyInfo.cs
+C:\Users\German\Desktop\Apagador\obj\Debug\net6.0-windows\Apagador.csproj.CoreCompileInputs.cache
+C:\Users\German\Desktop\Apagador\obj\Debug\net6.0-windows\Apagador.dll
+C:\Users\German\Desktop\Apagador\obj\Debug\net6.0-windows\refint\Apagador.dll
+C:\Users\German\Desktop\Apagador\obj\Debug\net6.0-windows\Apagador.pdb
+C:\Users\German\Desktop\Apagador\obj\Debug\net6.0-windows\Apagador.genruntimeconfig.cache
+C:\Users\German\Desktop\Apagador\obj\Debug\net6.0-windows\ref\Apagador.dll
